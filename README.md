@@ -1,3 +1,4 @@
+[![Rust](https://github.com/AndylLow/actixRestApi/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/AndylLow/actixRestApi/actions/workflows/rust.yml)
 # Rest Api with Rust / Actix web
 
 ## Usage
